@@ -8,11 +8,15 @@
 
 [members], projectName, HerokuApp.com url link
 
-Joan, Ruby, James, Peter. Fresh Potatoe - Movie Faves.  http://movie-faves.herokuapp.com/
+*     http://hotelsataglance.herokuapp.com
+* Cerys, Kelly, Sungmii. http://puppylove??.herokuapp.com
+* Joan, Ruby, James, Peter. Fresh Potatoe - Movie Faves.  http://movie-faves.herokuapp.com/
 
 ### Week 2, Group Project 1
 
 [members], projectName, HerokuApp.com url link
 
-Bobbi, Sungmi, Peter. Lenda NZ.  http://lendanz.herokuapp.com
-
+* Ruby,  Library lybrari ?  http://  lybrari.herokuapp.com ??
+* Taz,   .  recipes herokuapp.com 
+* Bobbi, Sungmi, Peter. Lenda NZ.  http://lendanz.herokuapp.com
+* shopping ingredients
