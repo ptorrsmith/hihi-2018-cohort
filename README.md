@@ -17,6 +17,6 @@
 [members], projectName, HerokuApp.com url link
 
 * Ruby,  Library lybrari ?  http://  lybrari.herokuapp.com ??
-* Taz,   .  recipes herokuapp.com 
+* Joan, Taz, Cathy  . dinner for today / recipes herokuapp.com 
 * Bobbi, Sungmi, Peter. Lenda NZ.  http://lendanz.herokuapp.com
-* shopping ingredients
+* james, , .  shopping ingredients / food recipe maker
